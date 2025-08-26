@@ -1,6 +1,6 @@
 # Indian-Smartphone-Market-Analysis-Web-Scraping-Data-Cleaning-EDA
 
-## 📌 Project Overview  
+##  Project Overview  
 This project explores the **smartphone market** using real-world data. The workflow covers everything from **data collection → cleaning → exploration → insights generation**.  
 
 The aim is to understand **smartphone trends, brand performance, and pricing strategies** through proper data analysis practices that reflect real industry work for a **Data Analyst / Data Scientist** role.  
@@ -50,3 +50,9 @@ The aim is to understand **smartphone trends, brand performance, and pricing str
    ```bash
    git clone https://github.com/your-username/smartphone-market-analysis.git
    cd smartphone-market-analysis
+   
+👤 Author
+
+Mohd Arshad – Aspiring Data Analyst | Passionate about Data Science & ML
+
+🔗 Connect with me on mohdarshad12575@gmail.com
