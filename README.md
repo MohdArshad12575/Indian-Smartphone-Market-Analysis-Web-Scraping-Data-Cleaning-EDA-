@@ -63,8 +63,7 @@ After Cleaning
 ## 🚀 How to Use  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/smartphone-market-analysis.git
-   cd smartphone-market-analysis
+   git clone https://github.com/MohdArshad12575/Indian-Smartphone-Market-Analysis-Web-Scraping-Data-Cleaning-EDA-
    
 👤 Author
 
